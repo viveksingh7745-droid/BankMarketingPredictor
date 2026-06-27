@@ -1,4 +1,4 @@
-# Bank Marketing Predictor — CodTech Internship Project
+# Bank Marketing Predictor — CodTech Internship Project. Internship ID-CITS3857
 
 Predicts whether a bank customer will subscribe to a **term deposit**
 using a **Random Forest** classifier trained on telemarketing campaign data.
